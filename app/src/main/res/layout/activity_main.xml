@@ -48,7 +48,6 @@
         android:ems="10"
         android:inputType="text"
         android:paddingLeft="10dp"
-        android:text="Username"
         app:layout_constraintBottom_toTopOf="@+id/startButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
